@@ -3,4 +3,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://nginx999.github.io/FaBD-project/)
+- [Публичная страница на GitHub Pages](https://nginX999.github.io/FaBD-project/)
